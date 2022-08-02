@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Eduardo Huerta 
-- 👀 I’m interested in listening to music, Off Road 4x4, hanging around. 
-- 🌱 I’m currently learning DATA SCIENCE, DATA ANALYTICS & CHANGE MANAGEMENT 
-- 💞️ I’m looking to collaborate on big projects out of my actual scope.
+- 👋Hi, I’m Eduardo Huerta 
+- ⛰ I’m interested in listening to music, Off Road 4x4, hanging around. 
+- 🌱六 I’m currently learning DATA SCIENCE, DATA ANALYTICS & CHANGE MANAGEMENT 
+- 料 I’m looking to collaborate on big projects out of my actual scope.
 
 
 <!---
